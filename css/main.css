@@ -82,7 +82,7 @@ body{
     padding: 8px 15px;
     padding-left: 10px;
     outline: none;
-    padding-top: 9px;
+    padding-top: 10px;
 }
 
 .form__input::placeholder{
